@@ -1,0 +1,9 @@
+name: C:\Temp\vEnv
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - contextily
+  - osmnx
+prefix: C:\Temp\vEnv
